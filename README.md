@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🙋🙋‍♂️, I'm Zinedin Zidan</h1>
+<h1 align="center">Hello 🙋‍♂️, I'm Zinedin Zidan</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
 <img src='https://www.embeddetech.com/wp-content/uploads/2016/12/PC-Mobile-Application-Development01.jpg'/>
