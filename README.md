@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zinedin Zidan</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
+![image](https://github.com/user-attachments/assets/04268831-b0c2-4da0-b6fd-ea5fbdf57e7e)
 
 - 🔭 I’m currently working on [Full Stack Projects](https://react-frontend-cyan.vercel.app/)
 
-- 🌱 I’m currently learning **Next Js, React Native, Mern Stack**
-
-- 👯 I’m looking to collaborate on **Software Developments**
-
-- 📫 How to reach me **mdzidane26@gmail.com**
+- 🌱 I’m currently learning **Next Js, React Native, MERN Stack**
 
 - 📄 Know about my experiences [example.con](example.con)
 
