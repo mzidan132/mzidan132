@@ -7,19 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Software Developments**
 
-- 🤝 I’m looking for help with **Development experience**
-
-- 👨‍💻 All of my projects are available at [example.com](example.com)
-
-- 📝 I regularly write articles on [example.com](example.com)
-
-- 💬 Ask me about **MERN stack or Machine Learning**
-
 - 📫 How to reach me **mdzidane26@gmail.com**
 
 - 📄 Know about my experiences [example.con](example.con)
-
-- ⚡ Fun fact **I am weird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
