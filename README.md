@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zinedin Zidan</h1>
+<h1 align="center">Hello 👋, I'm Zinedin Zidan</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-![image](https://github.com/user-attachments/assets/04268831-b0c2-4da0-b6fd-ea5fbdf57e7e)
+
+<img src='https://www.embeddetech.com/wp-content/uploads/2016/12/PC-Mobile-Application-Development01.jpg'/>
 
 - 🔭 I’m currently working on [Full Stack Projects](https://react-frontend-cyan.vercel.app/)
 
