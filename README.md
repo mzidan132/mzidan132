@@ -3,11 +3,11 @@
 
 <img src='https://www.embeddetech.com/wp-content/uploads/2016/12/PC-Mobile-Application-Development01.jpg'/>
 
-- 🔭 I’m currently working on [Full Stack Projects](https://react-frontend-cyan.vercel.app/)
+- 🔭 I’m currently working on Full Stack Software Development
 
-- 🌱 I’m currently learning **Next Js, React Native, MERN Stack**
+- 🌱 I’m currently learning **MERN Stack, Next Js, React Native**
 
-- 📄 Know about my experiences [example.con](example.con)
+- 📄 Know about my works at [my portfolio](zindinzidan-next.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
