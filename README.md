@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Next Js, React Native**
 
-- 📄 Know about my works at [my portfolio](zindinzidan-next.vercel.app)
+- 📄 Know about my works at [my portfolio](https://zindinzidan-next.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
